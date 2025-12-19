@@ -1,0 +1,15 @@
+.vscode
+.idea
+Thumbs.db
+out/
+.mcp.json
+*.iml
+*.DS_Store
+.repoprompt/**
+.repoprompt
+.factory
+.claude
+.spec
+AGENTS.md
+CLAUDE.md.spec/
+.spec/
